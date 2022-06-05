@@ -1,0 +1,25 @@
+segment_sources:
+  I645B85B7:
+    type: origin_type
+    relation: translation
+    language: en
+  IECE42BC2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8fb0cf9ba1c14782aca94978dd0bffc9:
+    I645B85B7: b69508aef5374a609550534d76222094
+    IECE42BC2: a9fe31653dfe456fabf082d741a5bfb9
+  a58589bd9c9e44a7b4c296d65ca9c5eb:
+    I645B85B7: cf921a895b10415c974cdb59d4a008e5
+    IECE42BC2: 82f49035743a4139aadaf48537cc3239
+  3efa79b58ebe43d89bf2b095e42dba22:
+    I645B85B7: 9e17ed289d7c412a8ea98d5fd8e04075
+    IECE42BC2: 9d3967a098a64faa8d258766fe544ca4
+  8ba07e844e3a41ea8c7851c1e3f9f295:
+    I645B85B7: c574137c2a6541b69828a1604d830adb
+    IECE42BC2: bf134065a85b44a18d7e8468ac9a7674
+  9a6b982d2f544dd49aa1bf8da50d03ac:
+    I645B85B7: 3c9ac3edffb84a439c50829c3585cd59
+    IECE42BC2: c4729557093c4824b1c76ae6c26ff16c
